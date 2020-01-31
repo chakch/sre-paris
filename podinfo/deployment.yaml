@@ -18,7 +18,7 @@ spec:
         run: podinfo
     spec:
       containers:
-      - image: podinfo
+      - image: stefanprodan/podinfo
         name: podinfo
         resources: {}
 status: {}
